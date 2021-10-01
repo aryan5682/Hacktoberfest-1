@@ -1,4 +1,5 @@
 # 450-DSA
 450 Question DSA worksheet by Love Babbar
 
-git clone 
+Paste in your Terminal and get Started
+git clone https://github.com/Github-thor/450-DSA.git
